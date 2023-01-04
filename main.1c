@@ -2,7 +2,6 @@
  * File:   main.c
  * Author: Refad Alnajdawi
  *
- * Created on September 26, 2022, 7:44 PM
  */
 
 #include <stdio.h>
@@ -20,7 +19,7 @@ int main(void) {
             CYAN,
             BLUE,
             MAGENTA,
-            WHITE }colour; // order stated in slide 2 of lab 1 power point
+            WHITE }colour;
     
             colour chosenColour = RED; // by Default the LED needs to be RED
     
