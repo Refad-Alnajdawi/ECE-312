@@ -4,7 +4,7 @@ VIRTUAL RULER
 From scratch, designed and developed a fully functioning virtual ruler up to 70cm.
 This required multiple different stages of work, this included design, wiring, soldering, and programming.
 For programming, an MPlab snap was used and connected to the board to translate the code into a fully functioning tool.
-[DEMO] ("C:\Users\Lebron\Downloads\SNAP-20221028-163215.mp4")
+[DEMO] (https://www.youtube.com/shorts/GtQJe7pNTms)
 
 RGB LED
 
