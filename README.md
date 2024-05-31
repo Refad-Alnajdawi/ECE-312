@@ -1,4 +1,4 @@
-# Engineering-projects3
+# Virtual Rulrt / RGB LED / Joystick
 VIRTUAL RULER
 
 From scratch, designed and developed a fully functioning virtual ruler up to 70cm.
